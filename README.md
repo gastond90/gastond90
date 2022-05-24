@@ -1,11 +1,11 @@
-### Hi there 👋, my name is Gastón
-#### Full-stack developer from Argentina
+### Hi there ☕, my name is Gastón Duba 
+#### Full-stack developer from Argentina 
 ![Full-stack developer from Argentina](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
 I'm a recently graduated full-stack developer with background in economics looking forward to start working in development. I'm team-oriented and I stand out in finding simple solutions to problems.
-Contact me!
+Contact me! 
 
-Skills: JavaScript / React / Redux/Node / HTML / CSS / PostgreSQL / Express
+Skills💾: JavaScript / React / Redux / Node / HTML / CSS / PostgreSQL / Express
 
 
 
