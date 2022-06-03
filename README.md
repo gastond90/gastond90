@@ -2,7 +2,10 @@
 #### Full-stack developer from Argentina 
 ![Full-stack developer from Argentina](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
-I'm a recently graduated full-stack developer with background in economics looking forward to start working in development. I'm team-oriented and I stand out in finding simple solutions to problems.
+I'm a recently graduated full-stack developer with background in economics looking forward to start working in development and eager to contribute to team success through hard work, attention to detail and excellent organizational skills. 
+Clear understanding of JavaScript and interested in learning new programming languages.
+Motivated to learn, grow and excel in development.
+Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing simple and reliable code.
 Contact me! 
 
 Skills💾: JavaScript / React / Redux / Node / HTML / CSS / PostgreSQL / Express
