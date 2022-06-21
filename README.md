@@ -1,13 +1,13 @@
 
-[Full-stack developer from Argentina](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
+![imagen](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
 <h1 align="center">Hi there ☕, my name is Gastón Duba </h1>
+
 <h3 align="center">Full-Stack developer from Salta, Argentina. I'm a recently graduated full-stack developer with background in economics looking forward to start working in development and eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of JavaScript and interested in learning new programming languages. Motivated to learn, grow and excel in development. Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing simple and reliable code. Contact me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gastond90&label=Profile%20views&color=0e75b6&style=flat" alt="gastond90" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gastond90" alt="gastond90" /></a> </p>
 
 - 🌱 I’m currently learning **Salesforce**
 
@@ -36,6 +36,6 @@
 - 🔭 I’m currently working on https://cindie-front.vercel.app/
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gastond90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gastonduba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tonduba/)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/gastond90) 
