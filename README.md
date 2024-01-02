@@ -9,11 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gastond90&label=Profile%20views&color=0e75b6&style=flat" alt="gastond90" /> </p>
 
 
-- 🌱 I’m currently learning **Salesforce**
+- 🌱 I’m currently learning **Odoo**
 
-- 👨‍💻 All of my projects are available at [https://tonduba-portfolio.vercel.app/](https://tonduba-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tondubadev.com.ar/](https://tondubadev.com.ar/)
 
-- 💬 Ask me about **JavaScript, React Redux**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, Laravel, Inertia**
 
 - 📫 How to reach me **gduba90@gmail.com**
 
