@@ -1,6 +1,6 @@
 
 
-![imagen](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
+![imagen](https://w0.peakpx.com/wallpaper/795/959/HD-wallpaper-best-web-development-company-in-lucknow-web-developer-web-design-web-application-web-development.jpg)
 
 <h1 align="center">Hi there ☕, my name is Gastón Duba </h1>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://tondubadev.com.ar/](https://tondubadev.com.ar/)
+- 👨‍💻 All of my projects are available at [https://tondubadev.com.ar/](https://tondubadevportfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Redux, HTML, Laravel, Inertia, Pyhton, Java**
 
