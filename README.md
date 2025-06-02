@@ -4,16 +4,16 @@
 
 <h1 align="center">Hi there ☕, my name is Gastón Duba </h1>
 
-<h3 align="center">Full-Stack developer from Salta, Argentina. I'm a recently graduated full-stack developer with background in economics looking forward to start working in development and eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of JavaScript and interested in learning new programming languages. Motivated to learn, grow and excel in development. Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing simple and reliable code. Contact me!</h3>
+<h3 align="center">Full-Stack developer from Salta, Argentina. I'm a 3 year experiencied full-stack developer with background in economics looking forward to work in development and eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of JavaScript and interested in learning new programming languages. Motivated to learn, grow and excel in development. Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing simple and reliable code. Contact me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gastond90&label=Profile%20views&color=0e75b6&style=flat" alt="gastond90" /> </p>
 
 
-- 🌱 I’m currently learning **Odoo**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://tondubadev.com.ar/](https://tondubadev.com.ar/)
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, Laravel, Inertia**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, Laravel, Inertia, Pyhton, Java**
 
 - 📫 How to reach me **gduba90@gmail.com**
 
@@ -31,9 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gastond90&show_icons=true&locale=en" alt="gastond90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gastond90&" alt="gastond90" /></p>
-
-
-- 🔭 I’m currently working on https://cindie-front.vercel.app/
 
 
 
