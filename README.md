@@ -1,6 +1,6 @@
 
 
-![imagen](https://w0.peakpx.com/wallpaper/795/959/HD-wallpaper-best-web-development-company-in-lucknow-web-developer-web-design-web-application-web-development.jpg)
+![imagen](https://edgarjayo.wordpress.com/wp-content/uploads/2020/09/banner_javascript.png)
 
 <h1 align="center">Hi there ☕, my name is Gastón Duba </h1>
 
