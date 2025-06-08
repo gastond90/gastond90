@@ -37,5 +37,4 @@
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/gastond90) 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=gastond90.Programacion_I-TF_Integrador)
+![GitHub metrics](https://metrics.lecoq.io/gastond90)
